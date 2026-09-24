@@ -1,4 +1,4 @@
-# minecraft-reloaded-series
+# Minecraft: Reloaded Series
 
 A series of separate resource packs that each improve one specific part of the game. They all stay close to the vanilla look, so you can use as many or as few as you want without changing the overall feel of Minecraft.
 
