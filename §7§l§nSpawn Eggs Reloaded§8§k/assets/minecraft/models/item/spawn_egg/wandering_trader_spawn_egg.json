@@ -1,0 +1,6 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "item/spawn_egg/wandering_trader_spawn_egg"
+    }
+}

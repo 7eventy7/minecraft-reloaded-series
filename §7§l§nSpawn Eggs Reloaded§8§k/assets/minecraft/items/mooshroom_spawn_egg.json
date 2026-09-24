@@ -1,0 +1,1 @@
+{"model":{"type":"select","property":"component","component":"mooshroom/variant","cases":[{"when":"red","model":{"type":"model","model":"item/spawn_egg/mooshroom_spawn_egg_red"}},{"when":"brown","model":{"type":"model","model":"item/spawn_egg/mooshroom_spawn_egg_brown"}}],"fallback":{"type":"model","model":"item/spawn_egg/mooshroom_spawn_egg_red"}}}

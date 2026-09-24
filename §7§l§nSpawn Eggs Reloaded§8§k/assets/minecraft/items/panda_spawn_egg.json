@@ -1,0 +1,26 @@
+{
+  "model": {
+    "type": "minecraft:select",
+    "property": "minecraft:component",
+    "component": "minecraft:entity_data",
+    "cases": [
+      {
+        "when": [
+          {
+            "id": "minecraft:panda",
+			"MainGene": "brown",
+			"HiddenGene": "brown"
+          }
+        ],
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/spawn_egg/panda_spawn_egg_brown"
+        }
+      }
+    ],
+    "fallback": {
+      "type": "minecraft:model",
+      "model": "minecraft:item/spawn_egg/panda_spawn_egg"
+    }
+  }
+}
